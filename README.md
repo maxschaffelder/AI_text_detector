@@ -1,1 +1,2 @@
 # AI_text_detector
+This is the code I created for my bachelor's thesis with the topic "Detection of AI-generated essay assignments using deep learning methods: Assessing the efficacy of a transformer-based approach to detect academic fraud using generative language models in undergraduate student assignments". The data used cannot be disclosed for privacy reasons. 
